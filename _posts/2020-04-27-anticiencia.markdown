@@ -2,7 +2,7 @@
 layout: post
 title:  "A Anticiência"
 date:   2020-04-27 21:00:15 -0300
-categories: ciência carl sagan política covid coronavirus brasil
+categories: opiniao
 ---
 
 Olá, esse é meu primeiro post e acho justo me apresentar. Meu nome é Franco Brunetta Pan, programador. Sou um cidadão como você, que apenas se inspirou em uma noite de auto isolamento durante a pandemia do Coronavirus.
