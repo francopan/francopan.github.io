@@ -27,7 +27,7 @@ twitter_username: francobpan
 github_username:  francopan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
